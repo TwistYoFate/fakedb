@@ -1,4 +1,19 @@
 {
-  "id":1,
+  "users":[
+    {"id":1,
   "name":"Deepanshu"
+    },
+    {"id":2,
+  "name":"Gaurav"},
+    {"id":3,
+  "name":"Dibbu"}
+  ]
+  
+  "blogs":[
+    {
+      "id":1,
+      "author":"Deepanshu",
+      "content":"Hahahahahahah"
+    }
+  ]
 }
